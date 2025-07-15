@@ -1,0 +1,28 @@
+{
+  "name": "test-syntaro-app",
+  "version": "1.0.0",
+  "description": "Test SYNTARO application created via GitHub API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "syntaro",
+    "test"
+  ],
+  "author": "SYNTARO Test Suite",
+  "license": "MIT"
+}
